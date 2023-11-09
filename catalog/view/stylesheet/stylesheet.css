@@ -29,7 +29,7 @@ h6 {
   font-size: 10.2px;
 }
 a {
-  color: #23a1d1;
+  color: #7abd48;
   text-decoration: none;
 }
 a:hover {
@@ -460,9 +460,9 @@ footer h5 {
 .btn-primary {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+  background-image: linear-gradient(to bottom, #7abd48, #7abd48);
   background-repeat: repeat-x;
-  border-color: #1f90bb #1f90bb #145e7a;
+  border-color: #7abd48 #7abd48 #55862e;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
   background-position: 0;
@@ -637,10 +637,10 @@ footer h5 {
   font-stretch: expanded;
   color: #FFF;
   padding: 6px 12px;
-  background-color: #229ac8;
-  background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+  background-color: #7abd48;
+  background-image: linear-gradient(to bottom, #7abd48 #7abd48);
   background-repeat: repeat-x;
-  border-color: #1f90bb #1f90bb #145e7a;
+  border-color: #7abd48 #7abd48 #55862e;
 }
 .form-check .form-check-input {
   margin-top: 0.25rem;
